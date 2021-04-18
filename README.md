@@ -2,7 +2,9 @@
 
 The Power of Plots
 
-This challenge analyzes data collected from the study of 249 mice that have been treated with a number of different drug regimens.The data for the study was collected over 45 days, and an analysis is needed to identify the most promising treatments. There are two csv files saved in the data folder for this challenge and these are merged together to create tables and plot figures analyzing the data. 
+This challenge analyzes data collected from the study of 249 mice that have been treated with a number of different drug regimens.
+
+The data for the study was collected over 45 days, and an analysis is needed to identify the most promising treatments. There are two csv files saved in the data folder for this challenge and these are merged together to create tables and plot figures analyzing the data. 
 
 Specifically, the code for this challenge identifies and removes from the data any mice ids of concern (with duplication for measurements). A summary statistics table for the tumor volumes for each drug regimen over the length of the study is created with the data that remains.
 
